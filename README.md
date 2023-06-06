@@ -2,6 +2,8 @@
 
 ## The Problem
 - Investigate how does US consumer confidence contribute to US bank’s performance.
+<img width="974" alt="Screenshot 2023-06-05 at 16 08 14" src="https://github.com/florencex5/Finance_Project_1/assets/129706051/5203a01f-62a5-4421-ab73-68315401df49">
+
 
 ## Data and Methods Used
 - Bank Performance (Time Series Analysis & Analysis of Variance)
